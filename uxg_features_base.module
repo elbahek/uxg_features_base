@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the UXG Features - Base feature.
+ */
+
+include_once 'uxg_features_base.features.inc';
